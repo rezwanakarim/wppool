@@ -1,0 +1,13 @@
+2024-09-10T04:16:22+00:00 NOTICE webhooks :: Ran plugin updater
+2024-09-10T04:19:06+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 61
+2024-09-10T04:20:29+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 63
+2024-09-10T04:22:33+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 65
+2024-09-10T04:23:51+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 59
+2024-09-10T04:45:11+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 65
+2024-09-10T16:35:39+00:00 NOTICE profile :: user_update_subscribe_status :: Array
+(
+    [subscribed] => 
+    [user_id] => 2
+    [gdpr_fields] => 
+)
+
